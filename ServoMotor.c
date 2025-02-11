@@ -8,6 +8,7 @@
 #define CLOCK_DIV 64.0 
 #define TPWM 20000.0    
 #define WRAP_VALUE 39063
+//#define SERVO_PIN 12          //PINO DO LED PARA O EXPERIMENTO
 
 // definição de variáveis
 uint volatile slice_numero;
