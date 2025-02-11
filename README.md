@@ -38,6 +38,10 @@ ninja
 
 Após carregar o código na Raspberry Pi Pico W, o servo motor será inicializado e se moverá para as posições 180, 90 e 0 graus, com uma pausa de 5 segundos entre cada movimento. Em seguida, o servo motor realizará uma movimentação suave entre as posições 0 e 180 graus continuamente.
 
+## Vídeo Exemplo
+
+Link de exibição do vídeo do projeto: https://youtu.be/fqGu6Ya6Be8
+
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
